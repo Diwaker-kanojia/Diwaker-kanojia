@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwaker Kanojia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwaker-kanojia&label=Profile%20views&color=0e75b6&style=flat" alt="diwaker-kanojia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diwaker-kanojia&label=Profile%20views&color=0e75b6&style=flat" alt="diwaker-kanojia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwaker-kanojia" alt="diwaker-kanojia" /></a> </p>
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwaker-kanojia&show_icons=true&locale=en" alt="diwaker-kanojia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwaker-kanojia&" alt="diwaker-kanojia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Diwaker-kanojia&" alt="diwaker-kanojia" /></p>
