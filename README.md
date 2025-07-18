@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwaker-kanojia" alt="diwaker-kanojia" /></a> </p>
 
-- 🔭 My Latest Project [CrytpoTracker](https://crypto-tracker-ruddy-one.vercel.app/)
+- 🔭 My Latest Project <a href="https://crypto-tracker-ruddy-one.vercel.app/" target="_blank"><b>CryptoTracker</b></a>
 
 - 🌱 I’m currently learning **Java Fullstack development**
 
