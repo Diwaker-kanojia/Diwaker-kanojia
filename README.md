@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diwaker-kanojia&label=Profile%20views&color=0e75b6&style=flat" alt="diwaker-kanojia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwaker-kanojia" alt="diwaker-kanojia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Diwaker-kanojia" alt="diwaker-kanojia" /></a> </p>
 
 - 🔭 My Latest Project <a href="https://crypto-tracker-ruddy-one.vercel.app/" target="_blank"><b>CryptoTracker</b></a>
 
