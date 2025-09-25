@@ -1,6 +1,6 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Diwaker Kanojia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Diwaker-kanojia&label=Profile%20views&color=0e75b6&style=flat" alt="diwaker-kanojia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Diwaker-kanojia" alt="diwaker-kanojia" /></a> </p>
